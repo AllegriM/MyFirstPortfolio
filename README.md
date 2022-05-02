@@ -3,3 +3,5 @@ This is my first portfolio attempt, in a future I am going to upload a better on
 
 ONLINE VERSION: https://marcoallegri.netlify.app/
 
+GITPAGES : https://allegrim.github.io/MyFirstPortfolio/
+
